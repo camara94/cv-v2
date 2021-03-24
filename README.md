@@ -9,4 +9,4 @@ Ce projet est composé de cinq (5) fichiers à savoir:
    
 ![Mon CV Perso](camaratek-2021-03-25.png)  
 
-[Le lien du CV en ligne](cv2.camaratek.com)
+[Le lien du CV en ligne](https://cv2.camaratek.com)
